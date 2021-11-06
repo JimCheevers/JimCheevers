@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimCheevers
 - 👀 I’m interested in Oracle Database, Microsoft SQL Server, Oracle Goldengate, Terraform, Vagrant, Azure, AWS 
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning Git, Terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
